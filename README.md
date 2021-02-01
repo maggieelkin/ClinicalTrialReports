@@ -6,7 +6,7 @@ In this study, we propose to use machine learning approach to understand termina
 
 The data for the study can be found [here](Data/ClinicalTrialTerminations.csv) 
 
-The column NCTID refers to the origional ID from the origional online database, [ClincialTrials.gov](https://clinicaltrials.gov/). 
+The column NCTID refers to the origional ID from the original online database, [ClincialTrials.gov](https://clinicaltrials.gov/). 
 
 Information on the other variables in the dataset can be found in the published paper. 
 
