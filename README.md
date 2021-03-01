@@ -6,7 +6,7 @@ In this study, we propose to use machine learning approach to understand termina
 
 ## Clinical Trial Data
 
-The data (including feature information) for the study can be found [here](http://www.cse.fau.edu/~xqzhu/clinical/clinicalTrialsData.zip) 
+The data (including feature information) for the study can be found [here (zip file, 64 MB)](http://www.cse.fau.edu/~xqzhu/clinical/clinicalTrialsData.zip) 
 
 The column NCTID refers to the Clinical trial's ID from the original online database, [ClincialTrials.gov](https://clinicaltrials.gov/). 
 
