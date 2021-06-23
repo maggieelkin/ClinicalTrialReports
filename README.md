@@ -19,7 +19,7 @@ As of March 30 2021, over 5,193 COVID-19 clinical trials have been registered th
 
 #### COVID-19 Clinical Trial Data
 
-The data (including feature information) for the study can be found [here (zip file)](http://www.cse.fau.edu/~xqzhu/clinical/CovidclinicalTrialsData.zip)
+The data (including feature information) for the study can be found [here (zip file 1 MB)](http://www.cse.fau.edu/~xqzhu/clinical/Covid19clinicalTrialsData.zip)
 
 The column NCTID refers to the Clinical trial's ID from the original online database, [ClincialTrials.gov](https://clinicaltrials.gov/). 
 
